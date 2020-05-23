@@ -1,0 +1,141 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+.navbar{
+    background-color:#660066 !important;
+    height: 60px;;
+}  
+.M{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    color: #FFFFFF !important;
+
+}
+.navbar li a{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color:#FFFFFF !important;
+}
+h1{
+	color: #fff;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	font-weight: 200;
+	font-size: 72px;
+
+}
+
+.header{
+	width: 100%;
+	height:737px;
+	display: block;
+	clear: both;
+	position: relative;
+}
+
+.header img{
+	position: absolute;
+	top:0;
+	left: 0;
+	z-index: 0;
+	width: 100%;
+    height: 100%;
+}
+
+.object-fit{
+	object-fit: cover;
+	object-position: center;
+}
+
+.presentacion{
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+	bottom:10px;
+	text-align: center;
+}
+
+.nombre{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 72px;
+	display: block;
+	border-top: 2px solid #fff;
+	margin-top: 10px;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #373A3C;
+    font-size: 25px;
+}
+
+
+
+.texto{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: left;
+}
+.subtitulo{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    color: #373A3C;
+}
+.CSS{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    color:#373A3C;
+}
+.año{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.color{
+    color: #660066;
+}
+.imagenes{
+    background-color: #660066;
+}
+.fotos{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 52px;
+}
+.footer{
+    background:#660066;
+    height: 221px;
+ 
+}
+.letra-footer{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    width: 100%;
+    color: #FFFFFF;
+  
+}
+.icono{
+    color: #FFFFFF;
+    text-align: right;
+}
+.contacto{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+}  
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    filter: invert(100%);
+}
+.carousel-indicators{
+    top: 55px;
+}

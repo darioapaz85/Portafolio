@@ -4,20 +4,18 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 .navbar{
-    background-color:#660066 !important;
-    height: 60px;;
+    background-color:#660066; 
+
 }  
 .M{
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    color: #FFFFFF !important;
     font-size: 30px;
 
 }
 .navbar li a{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    color:#FFFFFF !important;
 }
 h1{
 	color: #fff;
@@ -142,4 +140,8 @@ h1{
 }
 .ubicacion{
     height:100%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master

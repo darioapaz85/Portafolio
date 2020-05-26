@@ -94,6 +94,7 @@ h1{
 .año{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
+    color:#373A3C;
 }
 .color{
     color: #660066;
@@ -140,4 +141,27 @@ h1{
 }
 .ubicacion{
     height:100%;
+}
+.hr1{
+    width: 10%;
+    border-bottom-style: solid;
+    background-color: #373A3C; 
+    height: 3px;   
+    margin-left: 500px;
+}
+.hr2{
+    width: 10%;
+    border-bottom-style: solid;
+    background-color:#FFFFFF !important; 
+    height: 4px;   
+    margin-left: 680px;
+
+}
+
+.hr3{
+    width: 7%;
+    border-bottom-style: solid;
+    background-color: #373A3C; 
+    height: 4px; 
+    margin-left: 710px; 
 }
